@@ -9,7 +9,7 @@ window.title('Sego Bebek Mentok')
 window.resizable(0,0)
 window.geometry('700x600') # membuat ukuran
 window.configure(bg='#4169E1') # membuat background warna
-#window.iconbitmap(r'logo.ico') # membuat logo atas kiri
+#window.iconbitmap(r'logo.ico') # membuat logo atas kiri(Tinggal Di Hapus Pagar Nya jika ingin menggunakan iconbitmap)
 
 
 # Variabel Manu
